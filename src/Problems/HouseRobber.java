@@ -28,7 +28,6 @@ public class HouseRobber {
 		
 		int[] nums1 = {2, 7, 9, 3, 1};
 		System.out.println(rob(nums1));
-
 	}
 
 	public static int rob(int[] nums) {
